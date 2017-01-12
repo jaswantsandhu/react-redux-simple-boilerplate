@@ -1,0 +1,26 @@
+.listing {
+    background-color: #fff;
+    overflow: hidden;
+    .nopad {
+        padding: 0;
+    }
+    img {
+        width: 100%
+    }
+    h5,
+    p {
+        padding: 0 15px;
+        margin: 10px 0;
+        font-size: 14px;
+    }
+    .footer {
+        background: #f1f3f5;
+        border-top: 1px #ebebeb solid;
+        width: 100%;
+        padding: 10px 15px
+    }
+}
+
+.wrapper {
+    padding: 5px;
+}
